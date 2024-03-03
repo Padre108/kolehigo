@@ -1,0 +1,7 @@
+.logo_center {
+    background: linear-gradient(to bottom, #1D1A39, #662549);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
